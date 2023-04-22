@@ -1,0 +1,14 @@
+body {
+    
+    background-image: url("https://images6.alphacoders.com/105/1050408.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.wat {
+  position: fixed;
+  right: 50px;
+  bottom: 50px;
+}
